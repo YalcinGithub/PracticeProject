@@ -6,5 +6,7 @@ public class Hatice2 {
         System.out.println("Testing");
 
         System.out.println("updating");
+
+        System.out.println("final test");
     }
 }
